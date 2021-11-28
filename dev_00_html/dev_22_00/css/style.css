@@ -1,0 +1,43 @@
+.a {
+    background: url(https://beiz.jp/images_P/white/white_00040.jpg);
+    color: blue;
+    text-align: center;
+
+
+}
+
+.b  {background-color: rgb(151, 151, 151);
+    color: sienna;
+    text-align: center;
+}
+
+.c   {
+    padding: 0.5em;/*文字周りの余白*/
+    color: #494949;/*文字色*/
+    background: #fffaf4;/*背景色*/
+    border-left: solid 5px #ffaf58;/*左線（実線 太さ 色）*/
+  }
+
+.img1    {   
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+    border: 10px solid blue;
+    box-shadow: 10px 10px 10px 10px black;
+}
+
+.img2    {   
+    width:200px;
+    height:100px;
+    border-radius: 50%;
+    border: 10px solid red;
+    box-shadow: 10px 10px 10px 10px black;
+}
+
+.img3    {   
+    width:250px;
+    height:150px;
+    border-radius: 50%;
+    border: 10px solid rgb(121, 3, 3);
+    box-shadow: 10px 10px 10px 10px black;
+}
